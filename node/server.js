@@ -17,7 +17,7 @@ app.get('/', (req, res) => {
     },
     {
       "id":"3",
-      "comment":"should've been watching Netflix more"
+      "comment":"Should've been watching Netflix more"
     }
   ])
 })
